@@ -4,6 +4,7 @@
 * Lorenzo Pannacci - 1948926
 * Francesco Lazzari - 1917922
 * Stefano Rinaldi - 1945551
+* Emmanuele De Lucia - 2099678
 
 This repository contains the submission of Group #19 of the fourth homework for the course "Algorithmic Methods of Data Mining", Academic year 2023–2024.
 Here we provide the link for an easier access to the notebook: https://nbviewer.org/github/LorenzoPannacci/ADM-HW4/blob/main/main.ipynb
