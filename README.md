@@ -14,3 +14,19 @@ Here we provide the link for an easier access to the notebook: https://nbviewer.
 * __`main.ipynb`__: the main notebook files. It contains all the answers and all the cells are already executed.
 
 ## Suddivision of exercises
+
+1.1 -
+1.2 -
+1.3 -
+2.1 - Lorenzo - Done
+2.2 -
+2.3 -
+2.4 -
+3   -
+4.1 -
+4.2 -
+4.3 -
+5.a - Lorenzo - Done
+5.b - Lorenzo - Done
+5.c - Lorenzo - Done
+5.d - Lorenzo - WIP
