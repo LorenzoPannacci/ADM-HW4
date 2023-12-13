@@ -14,3 +14,5 @@ Here we provide the link for an easier access to the notebook: https://nbviewer.
 * __`main.ipynb`__: the main notebook files. It contains all the answers and all the cells are already executed.
 
 ## Suddivision of exercises
+4 - Francesco
+5 - Lorenzo
