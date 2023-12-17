@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 data/vodclickstream_uk_movies_03.csv
 vodclickstream_uk_movies_03.csv
+pca_df.csv
+reduced_df.csv
